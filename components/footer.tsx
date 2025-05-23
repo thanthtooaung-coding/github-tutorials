@@ -132,7 +132,7 @@ export function Footer() {
               </svg>
               <span className="sr-only">Instagram</span>
             </Link>
-            <Link href="#" className="text-gray-400 hover:text-white">
+            <Link href="https://github.com/thanthtooaung-coding/github-tutorials" className="text-gray-400 hover:text-white">
               <GitHubIcon className="h-5 w-5" />
               <span className="sr-only">GitHub</span>
             </Link>

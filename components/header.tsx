@@ -49,7 +49,7 @@ export function Header() {
             variant="outline"
             className="hidden md:inline-flex h-9 items-center justify-center rounded-md border border-gray-700 bg-[#161b22] px-4 text-sm font-medium text-white shadow-sm transition-colors hover:bg-[#1c2128] hover:border-gray-600"
           >
-            <Link href="https://github.com">
+            <Link href="https://github.com/thanthtooaung-coding/github-tutorials">
               <GitHubIcon className="mr-2 h-4 w-4" />
               View on GitHub
             </Link>
@@ -100,7 +100,7 @@ export function Header() {
               variant="outline"
               className="w-full justify-center rounded-md border border-gray-700 bg-[#161b22] px-4 py-2 text-sm font-medium text-white shadow-sm transition-colors hover:bg-[#1c2128] hover:border-gray-600"
             >
-              <Link href="https://github.com">
+              <Link href="https://github.com/thanthtooaung-coding/github-tutorials">
                 <GitHubIcon className="mr-2 h-4 w-4" />
                 View on GitHub
               </Link>

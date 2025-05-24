@@ -23,8 +23,7 @@ export const tutorialSections: TutorialSectionProps[] = [
         icon: "git-branch",
         description: "Master clone, add, commit, and push commands",
         items: ["Cloning repositories", "Making and tracking changes", "Committing and pushing to GitHub"],
-        // link: "/tutorials/git-basics",
-        comingSoon: true,
+        link: "/tutorials/git-basics",
       },
       {
         title: "Branching & Merging",

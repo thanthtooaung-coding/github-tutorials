@@ -4,7 +4,7 @@ import { TutorialSidebar } from "@/components/tutorial-sidebar"
 import { CodeBlock } from "@/components/code-block"
 import Link from "next/link"
 import Image from "next/image"
-import { AlertCircleIcon, ArrowLeft, LightbulbIcon, Terminal } from "lucide-react"
+import { AlertCircleIcon, ArrowLeft, GitBranch, LightbulbIcon } from "lucide-react"
 
 export default function GitBasicsTutorial() {
   return (
@@ -39,7 +39,7 @@ export default function GitBasicsTutorial() {
 
             <div className="flex items-center gap-3 mb-6">
               <div className="bg-[#161b22] p-2 rounded-lg">
-                <Terminal className="h-6 w-6 text-white" />
+                <GitBranch className="h-6 w-6 text-white" />
               </div>
               <h1 className="text-3xl font-bold text-white">Git Basics: Clone, Add, Commit, Fetch, and Push</h1>
             </div>
